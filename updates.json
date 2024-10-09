@@ -17,6 +17,10 @@
         {
           "version": "1.1.0",
           "update_link": "https://raw.githubusercontent.com/vspinellis/extensao_firefox/main/bfd43801c1e241669fc2-1.1.0.xpi"
+        },
+        {
+          "version": "1.2.0",
+          "update_link": "https://raw.githubusercontent.com/vspinellis/extensao_firefox/main/bfd43801c1e241669fc2-1.2.0.xpi"
         }
       ]
     }
